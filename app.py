@@ -87,4 +87,4 @@ if st.button("🚀 Predict Demand", use_container_width=True):
     except Exception as e:
         st.error(f"Gagal melakukan prediksi: {e}")
 
-st.caption("v4.1")
+st.caption("Try and Error Experiment")
