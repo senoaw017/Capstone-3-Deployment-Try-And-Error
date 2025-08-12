@@ -1,3 +1,3 @@
-# Bike Sharing Predictor (Streamlit Cloud Ready)
+# Bike Sharing Predictor 
 
 this project under develop, try and error
